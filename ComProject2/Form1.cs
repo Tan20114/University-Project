@@ -14,7 +14,7 @@ namespace ComProject2
 
         private void Gay()
         {
-
+            //Gay
         }
     }
 }
