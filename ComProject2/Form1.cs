@@ -9,7 +9,12 @@ namespace ComProject2
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            pictureBox1.BackColor = Color.Red;
+
+        }
+
+        private void Gay()
+        {
+            //Gay
         }
     }
 }
