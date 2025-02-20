@@ -11,15 +11,5 @@ namespace ComProject2
         {
 
         }
-
-        private void Gay()
-        {
-            //Gay
-        }
-
-        private void Gay2()
-        {
-            //Gay
-        }
     }
 }
